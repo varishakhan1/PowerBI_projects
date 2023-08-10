@@ -1,6 +1,6 @@
 # Project overview
-This project combines the power of SQL for data manipulation and Power BI for data visualization to provide comprehensive insights.  It includes:< br/>
-SQL Scripts: Explore the SQL scripts to understand data extraction, transformation, and loading processes < br/>
+This project combines the power of SQL for data manipulation and Power BI for data visualization to provide comprehensive insights.  It includes: <br/>
+SQL Scripts: Explore the SQL scripts to understand data extraction, transformation, and loading processes <br/>
 Power BI Reports: These interactive reports visualize the processed data from SQL. <br/>
 
 # About the dataset <br/>
